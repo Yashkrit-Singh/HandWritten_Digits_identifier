@@ -1,4 +1,4 @@
-# Handmade Digits Identifier
+# Handwritten Digits Identifier
 
 This project aims to build a machine learning model that can classify handwritten digits using the MNIST dataset. The model uses a Neural Network (NN) built with TensorFlow and Keras to recognize digits from 0 to 9.
 
