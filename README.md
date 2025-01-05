@@ -20,7 +20,6 @@ The key steps of the project are:
 - [Model Architecture](#model-architecture)
 - [Training](#training)
 - [How to Run](#how-to-run)
-- [License](#license)
 
 ## Technologies Used
 
